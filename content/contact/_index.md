@@ -27,9 +27,9 @@ menu:
 <div class="panel-body">
 <ul class="list-unstyled">
 <li><img src="/templates/brand/images/icons/CountryFlag-US.png"> USA</li>
-<li><i class="fa fa-phone"> </i> +1 903 306 1676</li>
-<li><i class="fa fa-skype"> </i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">  </a></li>
-<li><i class="fa fa-envelope"> </i> <span id="cloakaf901131c1df31bff2829a452e7351f0">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloakaf901131c1df31bff2829a452e7351f0').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addyaf901131c1df31bff2829a452e7351f0='s&#97;l&#101;s'+'&#64;';addyaf901131c1df31bff2829a452e7351f0=addyaf901131c1df31bff2829a452e7351f0+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'c&#111;m';var addy_textaf901131c1df31bff2829a452e7351f0='s&#97;l&#101;s'+'&#64;'+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'c&#111;m';document.getElementById('cloakaf901131c1df31bff2829a452e7351f0').innerHTML+='<a '+path+'\''+prefix+':'+addyaf901131c1df31bff2829a452e7351f0+'\'>'+addy_textaf901131c1df31bff2829a452e7351f0+'<\/a>';</script></li>
+<li><i class="fa fa-phone">&nbsp;</i> +1 903 306 1676</li>
+<li><i class="fa fa-skype">&nbsp;</i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
+<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloaka92531c4ae525fd0db9d8c6e84ff92f2"><a href="mailto:sales@conholdate.com">sales@conholdate.com</a></span></li>
 </ul>
 </div>
 </div>
@@ -41,9 +41,9 @@ menu:
 <div class="panel-body">
 <ul class="list-unstyled">
 <li><img src="/templates/brand/images/icons/CountryFlag-UK.png"> UK</li>
-<li><i class="fa fa-phone"> </i> +44 141 628 8900</li>
-<li><i class="fa fa-skype"> </i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">  </a></li>
-<li><i class="fa fa-envelope"> </i> <span id="cloak849524ba685b008861fae8296801a85b">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak849524ba685b008861fae8296801a85b').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy849524ba685b008861fae8296801a85b='s&#97;l&#101;s'+'&#64;';addy849524ba685b008861fae8296801a85b=addy849524ba685b008861fae8296801a85b+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'c&#111;m';var addy_text849524ba685b008861fae8296801a85b='s&#97;l&#101;s'+'&#64;'+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'c&#111;m';document.getElementById('cloak849524ba685b008861fae8296801a85b').innerHTML+='<a '+path+'\''+prefix+':'+addy849524ba685b008861fae8296801a85b+'\'>'+addy_text849524ba685b008861fae8296801a85b+'<\/a>';</script></li>
+<li><i class="fa fa-phone">&nbsp;</i> +44 141 628 8900</li>
+<li><i class="fa fa-skype">&nbsp;</i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
+<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloak8b74f8fe55f116aa387f3091ea4f9533"><a href="mailto:sales@conholdate.com">sales@conholdate.com</a></span></li>
 </ul>
 </div>
 </div>
@@ -54,9 +54,9 @@ menu:
 <div class="panel-body">
 <ul class="list-unstyled">
 <li><img src="/templates/brand/images/icons/CountryFlag-AUSTRALIA.png"> Australia</li>
-<li><i class="fa fa-phone"> </i> +61 2 8006 6987</li>
-<li><i class="fa fa-skype"> </i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">  </a></li>
-<li><i class="fa fa-envelope"> </i> <span id="cloak120c795754eb777aa9d52634d5aac8cc">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak120c795754eb777aa9d52634d5aac8cc').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy120c795754eb777aa9d52634d5aac8cc='s&#97;l&#101;s'+'&#64;';addy120c795754eb777aa9d52634d5aac8cc=addy120c795754eb777aa9d52634d5aac8cc+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'c&#111;m';var addy_text120c795754eb777aa9d52634d5aac8cc='s&#97;l&#101;s'+'&#64;'+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'c&#111;m';document.getElementById('cloak120c795754eb777aa9d52634d5aac8cc').innerHTML+='<a '+path+'\''+prefix+':'+addy120c795754eb777aa9d52634d5aac8cc+'\'>'+addy_text120c795754eb777aa9d52634d5aac8cc+'<\/a>';</script></li>
+<li><i class="fa fa-phone">&nbsp;</i> +61 2 8006 6987</li>
+<li><i class="fa fa-skype">&nbsp;</i> <a href="skype:asposeptyltd.sales?call" shape="rect"><img src="/templates/brand/images/icons/skypeStatus-Icon.png">&nbsp;&nbsp;</a></li>
+<li><i class="fa fa-envelope">&nbsp;</i> <span id="cloakb397ee11893dec76908d688345a566ad"><a href="mailto:sales@conholdate.com">sales@conholdate.com</a></span></li>
 </ul>
 </div>
 </div>

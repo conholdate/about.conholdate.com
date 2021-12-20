@@ -77,7 +77,7 @@ menu:
 <div class="box1 row">
 <div class="col-md-12">
 <h5>More questions about Security?</h5>
-<p>You can read more in our <a href="/legal/eula" rel="alternate">EULA </a>and <a href="/legal/privacy-policy" rel="alternate">Privacy Policy</a>. If you have a question, concern, or comment about Conholdate's security that's not covered here? <span id="cloakd701740592cd46dfd6846015ea6e27ff">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloakd701740592cd46dfd6846015ea6e27ff').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addyd701740592cd46dfd6846015ea6e27ff='s&#101;c&#117;r&#105;ty'+'&#64;';addyd701740592cd46dfd6846015ea6e27ff=addyd701740592cd46dfd6846015ea6e27ff+'c&#111;nh&#111;ld&#97;t&#101;'+'&#46;'+'c&#111;m';var addy_textd701740592cd46dfd6846015ea6e27ff='Em&#97;&#105;l Us';document.getElementById('cloakd701740592cd46dfd6846015ea6e27ff').innerHTML+='<a '+path+'\''+prefix+':'+addyd701740592cd46dfd6846015ea6e27ff+'\' rel="alternate">'+addy_textd701740592cd46dfd6846015ea6e27ff+'<\/a>';</script> or <a href="https://forum.conholdate.com/" rel="alternate">Ask on the support forums</a>.</p>
+<p>You can read more in our <a href="/legal/eula" rel="alternate">EULA </a>and <a href="/legal/privacy-policy" rel="alternate">Privacy Policy</a>. If you have a question, concern, or comment about Conholdate's security that's not covered here? <span id="cloak28ce8453630cbb8342025b202f92a804"><a href="mailto:security@conholdate.com" rel="alternate">Email Us</a></span> or <a href="https://forum.conholdate.com/" rel="alternate">Ask on the support forums</a>.</p>
 </div>
 </div>
 </div>
